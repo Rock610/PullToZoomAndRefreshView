@@ -1,20 +1,20 @@
 # PullToZoomAndRefreshView
-##下拉时头部图片会缩放并且有刷新功能的组件
-----
+下拉时头部图片会缩放并且有刷新功能的组件
+
 根据PullZoomView改造而来,感谢作者的开源精神
 
 
 
 ##感谢
-----
+
 Developers @matrixxun [PullToZoomInListView](https://github.com/matrixxun/PullToZoomInListView),@[PullZoomView](https://github.com/Frank-Zhu)
 
 ##About me
-----
+
 [MyBlog](http://www.jianshu.com/users/55ddc6ee39e8/latest_articles)
 
 ##License
-----
+
 > Copyright 2015 MrRock
 
 Licensed under the Apache License, Version 2.0 (the "License");
