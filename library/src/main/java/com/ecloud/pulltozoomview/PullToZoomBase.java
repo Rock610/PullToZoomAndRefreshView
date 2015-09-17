@@ -134,7 +134,7 @@ public abstract class PullToZoomBase<T extends View> extends LinearLayout implem
 
     @Override
     public boolean isPullToZoomEnabled() {
-        return isZoomEnabled || status == REFRESHING;
+        return isZoomEnabled && status != REFRESHING;
     }
 
     @Override
